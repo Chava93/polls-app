@@ -1,5 +1,5 @@
 # Created by https://www.gitignore.io
-.gif
+*.gif
 ### OSX ###
 .DS_Store
 .AppleDouble
